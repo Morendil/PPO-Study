@@ -52,5 +52,5 @@ We leave it to participants in the study to disclose which outcomes are consider
 
 ### References
 
-(Williams 2004) Toward a Framework for Evaluating Extreme Programming
-(Bossavit 2010) http://www.paskaward.org/publications/bossavit100225.html
+* (Williams 2004) Toward a Framework for Evaluating Extreme Programming
+* (Bossavit 2010) http://www.paskaward.org/publications/bossavit100225.html
