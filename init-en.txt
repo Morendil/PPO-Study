@@ -1,0 +1,81 @@
+Initial questionnaire for Project-Practice-Outcome database: establish baseline
+==============================================================
+
+I. Contact information
+
+II. Project information
+
+Start date should be counted as "first date when a participant with 'build' responsibilities (developer, architect, etc.) becomes involved full-time".
+
+* Project start date - development:
+* Team size (build):
+* Team size (total full-time personnel):
+* Other participants:
+
+Per team member:
+* specialization (dev, PM, test, etc.)
+* experience in SW development (years)
+* experience in Agile (years/months)
+* domain expertise: low - some - high
+* expertise in project tech: low - some - high
+
+* Project input: document type (charter, user stories, use cases, text) and size
+
+* Short description of project goals:
+
+III. Effort information
+
+* Project type: embedded - commercial - IS - web - other
+* Project situation: greenfield - extension - porting - other
+* Project domain:
+* Project technology platform:
+
+* Target man-month budget:
+* Target end date:
+* Target size if known (in KLOC, FP, User Stories):
+
+* Customer(s):
+
+IV. Ergonomic factors
+
+* Participant locations (count):
+
+If distributed, per location:
+* which team members:
+* office layout (dedicated room - open office - single office):
+* communication facilities (Web/email - phoneconf - videoconf - other):
+
+V. Outcomes
+
+* Project objectives (short form):
+
+Per objective:
+* means of measurement/observation:
+* baseline (current) level of satisfaction:
+
+VI. Practices
+
+* Agile practices intended on this project:
+
+Per practice:
+* already used previously:
+* objective the practice contributes to:
+
+Per skill AND team member:
+* level of proficiency with this skill (low - medium - high)
+
+* Agile practices ruled out on this project:
+
+Per practice:
+* reason excluded (constraint - cost - no benefit):
+* replacement or mitigation:
+
+VII. Internal data collection
+
+Are you planning to collect and willing to share the following data:
+* velocity or lead time history
+* test coverage and test:source ratio
+* CI build history
+* defect counts
+* source code analysis outputs
+* other
