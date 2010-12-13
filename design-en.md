@@ -1,7 +1,7 @@
 Study Design
 ==========
 
-I. Motivation
+## Motivation
 
 There is a widespread perception that the Agile community is uninterested in empirical data about the benefits of Agile practices. (E.g. Constantine 2010) The background to the Project Studies Program is an article by Pask Award recipient Laurent Bossavit (Bossavit 2010) calling for longitudinal studies of projects using any subset of Agile practices.
 
@@ -11,7 +11,7 @@ Because collecting such data is a costly and time-consuming effort, Agile expert
 
 However such surveys are not reliable information on how widespread actual usage of these practices is, or whether and to what extent these practices are of benefit to the project teams using them. Survey data is subject to two important biases: selection biases, where for instance only respondents already convinced of the benefits of Agile elect to fill out a survey; and hindsight biases, where respondents may attribute their successes to their favorite practices, even in the absence of an empirically demonstrable benefit of that practice.
 
-II. Scope
+## Scope
 
 The scope of this study is restricted to projects which adopt one or more Agile practices with the intention of improving project outcomes. By "adopt" we mean an intention, a decision made in the knowledge that the practice is consistent with an overall approach identified as "Agile" (or possibly Scrum, Lean/Agile, Extreme Programming, or any other such widely acknowledge to be part of the Agile family of project strategies).
 
@@ -19,14 +19,15 @@ As participation in the study is voluntary, we can not expect that projects part
 
 We address hindsight bias by studying projects from inception or as close to inception as allowed by the inevitable fuzziness around the term "project", and repeating data collection interviews at least two times over the project's duration and after the initial interview.
 
-III. Goals
+## Goals
 
 The questions this study aims to answer are the following:
-- which practices are viewed as a means to achieve which outcomes?
-- which intended practices prove easy or hard to in fact adopt?
-- how are project outcomes affected by practices in fact adopted?
 
-IV. Data collection
+* which practices are viewed as a means to achieve which outcomes?
+* which intended practices prove easy or hard to in fact adopt?
+* how are project outcomes affected by practices in fact adopted?
+
+## Data collection
 
 We base the study on the Institut Agile's comprehensive list of Agile practices, a broader set than used in the major Web surveys.
 
@@ -36,7 +37,7 @@ A structured interview using the Initial Questionnaire will be used to collect c
 
 Follow-up interviews will track changes and updates to any project parameters: team composition, technology, outcomes sought, practices used.
 
-V. Outcome information
+## Outcome information
 
 The study is agnostic about what outcomes matter for a software development project.
 
@@ -49,8 +50,7 @@ We leave it to participants in the study to disclose which outcomes are consider
 
 
 
-
-References
+### References
 
 (Williams 2004) Toward a Framework for Evaluating Extreme Programming
 (Bossavit 2010) http://www.paskaward.org/publications/bossavit100225.html
