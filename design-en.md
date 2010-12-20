@@ -1,3 +1,4 @@
+
 Study Design
 ==========
 
@@ -13,7 +14,7 @@ However such surveys are not reliable information on how widespread actual usage
 
 ## Scope
 
-The scope of this study is restricted to projects which adopt one or more Agile practices with the intention of improving project outcomes. By "adopt" we mean an intention, a decision made in the knowledge that the practice is consistent with an overall approach identified as "Agile" (or possibly Scrum, Lean/Agile, Extreme Programming, or any other such widely acknowledge to be part of the Agile family of project strategies).
+The scope of this study is restricted to projects which adopt one or more Agile practices with the intention of improving project outcomes. By "adopt" we mean an intention, a decision made in the knowledge that the practice is consistent with an overall approach identified as "Agile" (or possibly Scrum, Lean/Agile, Extreme Programming, or any other such widely acknowledged to be part of the Agile family of project strategies).
 
 As participation in the study is voluntary, we can not expect that projects participating in the study will be representative of the industry as a whole. We intend to mitigate sampling bias by including a diverse set of projects in this study.
 
