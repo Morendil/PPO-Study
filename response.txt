@@ -1,0 +1,14 @@
+Preliminary Interviews
+======================
+
+This notes some important responses to initial interviews and outreach efforts that may represent useful input or potential challenges to the study.
+
+* "You should include already started projects in the study so as to get a larger sample"
+
+To the extent permitted by time and effort constraints the PPO may include some projects which have already seen significant development effort, but will clearly mark them as such so that they can be excluded from any analysis which aims to avoid hindsight bias.
+
+* "We are deploying Agile practices at a client's, but we prefer not to label our approach as Agile or mention any specific practices by name"
+
+The PPO study aims to observe deliberate intent, not "stealth" application of Agile practices. Data collection will note the connection of informants with the organization sponsoring the project: external consultant, internal consultant, manager, executive, etc.
+
+Projects will only be included in the study when at least one informant is part of the sponsoring organization AND this informant recognizes an explicit link between practices adopted (whether known as Agile or not) and outcomes sought.
